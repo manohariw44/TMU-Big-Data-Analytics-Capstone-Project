@@ -3,6 +3,6 @@ Capstone project abstract, notebooks and report
 
 [Abstract](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/dc995d3a5459c0483a9654728bfd10ae1d287e1f/Abstract.pdf)
 
-[Literature Review](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/3cda94df7497b4b30187a2a630fcbeeb1f24bba0/Literature%20Review.pdf)
+[Literature Review](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/60d483c7be1c4db3f3ba0104a074857d5135ebcc/Literature%20Review.pdf)
 
 [Exploratory Data Analysis report](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/a5c3da3ead1d36ab1fde0c539f908d0f6b9928a8/Pandas%20Profiling%20Report%20%E2%80%94%20Variable%20profile2%20-%20no%20duplicates%20.html)
