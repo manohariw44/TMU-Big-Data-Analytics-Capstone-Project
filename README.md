@@ -5,7 +5,7 @@ Capstone project abstract, notebooks and report
 
 [Literature Review](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/266419984f6c2847f81a666b13c14ecb762719b3/Literature%20Review.pdf)
 
-[Exploratory Data Analysis report](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/065ad3458504dd2896ad27d521dcb0819216da7d/Pandas%20Profiling%20Report%20%E2%80%94%20Variable%20profile2%20-%20no%20duplicates%20.html)
+[Profile Report](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/065ad3458504dd2896ad27d521dcb0819216da7d/Pandas%20Profiling%20Report%20%E2%80%94%20Variable%20profile2%20-%20no%20duplicates%20.html)
 
 [Exploratory Data Analysis - IPYNB file](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/4494cc60b30bd6922ddda48a3e07624a68b745ab/PY01_Capst_EDA.ipynb)
 
