@@ -9,6 +9,6 @@ Capstone project abstract, notebooks and report
 
 [Exploratory Data Analysis - IPYNB file](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/777d0c48d821d0bbb9960fa861e48aee74d13f0a/PY01_Capst_EDA.ipynb)
 
-[Initial code - sklearn ](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/50e93bd92f569bc3920637b0ca1fb8dc9ddcfef6/PY01_Capst_COIL_sklearn.ipynb)
+[Initial code - sklearn ](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/8524a3de1b57734343e6427f6425e9c03703322c/PY01_Capst_COIL_sklearn.ipynb)
 
 [Data Dictionary](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/489823660ecf25d1a1f580bbb81813a99be4ffe0/Data_Dictionary.xlsx)
