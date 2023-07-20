@@ -1,7 +1,7 @@
 # TMU-Big-Data-Analytics-Capstone-Project
 Capstone project abstract, notebooks and report
 
-[Abstract](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/dc995d3a5459c0483a9654728bfd10ae1d287e1f/Abstract.pdf)
+[Abstract](Abstract.pdf)
 
 [Literature Review](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/266419984f6c2847f81a666b13c14ecb762719b3/Literature%20Review.pdf)
 
