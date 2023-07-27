@@ -14,6 +14,7 @@ Capstone project abstract, notebooks and report
 [Final code - all data](PY01_Capst_COIL_sklearn_A.ipynb)
 
 [Final code - product data](PY01_Capst_COIL_sklearn_B.ipynb)
+
 [Final code - sociodemograpic data](PY01_Capst_COIL_sklearn_C.ipynb)
 
 [Data Dictionary](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/489823660ecf25d1a1f580bbb81813a99be4ffe0/Data_Dictionary.xlsx)
