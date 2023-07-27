@@ -20,3 +20,5 @@ Capstone project abstract, notebooks and report
 [Data Dictionary](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/489823660ecf25d1a1f580bbb81813a99be4ffe0/Data_Dictionary.xlsx)
 
 [Project Report](Capstone_Project_Report.pdf)
+
+[Prentation](Capstone_Project_Report.pdf)
