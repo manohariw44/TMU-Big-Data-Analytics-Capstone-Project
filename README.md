@@ -11,6 +11,8 @@ Capstone project abstract, notebooks and report
 
 [Initial code - sklearn ](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/8524a3de1b57734343e6427f6425e9c03703322c/PY01_Capst_COIL_sklearn.ipynb)
 
+[Final code - all data](PY01_Capst_COIL_sklearn_A.ipynb)
+
 [Data Dictionary](https://github.com/manohariw44/TMU-Big-Data-Analytics-Capstone-Project/blob/489823660ecf25d1a1f580bbb81813a99be4ffe0/Data_Dictionary.xlsx)
 
 [Project Report](CIND820_Caravan_Policy_Ownership.docx)
