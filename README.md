@@ -21,4 +21,4 @@ Capstone project abstract, notebooks and report
 
 [Project Report](Capstone_Project_Report.pdf)
 
-[Prentation](Project_Presentation.pdf)
+[Presentation](Project_Presentation.pdf)
